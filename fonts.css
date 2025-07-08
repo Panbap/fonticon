@@ -15,11 +15,12 @@
   src: url('./font/BirthstoneBounce-Medium.ttf') format('truetype');
 }
 
-    .icon-briefcase {
-      display: inline-block;
-      width: 24px;
-      height: 24px;
-      background-image: url('./font/briefcase.svg');
-      background-repeat: no-repeat;
-      background-size: contain;
-    }
+.icon-briefcase {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('https://cdn.jsdelivr.net/gh/Panbap/fonticon@new/font/briefcase.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  vertical-align: middle;
+}
