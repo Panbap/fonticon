@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'among';
+  src: url('./font/arcade-among-1.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Arimo';
+  src: url('./font/Arimo-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Bangers';
+  src: url('./font/Bangers-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'BirthstoneBounce';
+  src: url('./font/BirthstoneBounce-Medium.ttf') format('truetype');
+}
