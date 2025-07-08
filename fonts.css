@@ -14,11 +14,12 @@
   font-family: 'BirthstoneBounce';
   src: url('./font/BirthstoneBounce-Medium.ttf') format('truetype');
 }
-.icon-briefcase {
-  width: 24px;
-  height: 24px;
-  background-image: url("./font/briefcase.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  display: inline-block;
-}
+
+    .icon-briefcase {
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      background-image: url('./font/briefcase.svg');
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
