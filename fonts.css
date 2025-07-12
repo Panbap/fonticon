@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'FrankBellamyiCiel';
-  src: url('./fonts/FrankBellamyiCiel.woff2') format('woff2'),
-       url('./fonts/FrankBellamyiCiel.woff') format('woff');
+  src: url('./font/FrankBellamyiCiel.woff2') format('woff2'),
+       url('./font/FrankBellamyiCiel.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
